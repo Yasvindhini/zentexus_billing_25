@@ -1,16 +1,16 @@
 import React from "react";
 import { Container, Col, Row } from "react-bootstrap";
 
-const DashBoard = () => {
+const Parties = () => {
   return (
     <div id="main">
       <Container>
         <Row>
-          <Col xl="12">jggjug</Col>
+          <Col xl="12">jhkugiuguggjghukhhik</Col>
         </Row>
       </Container>
     </div>
   );
 };
 
-export default DashBoard;
+export default Parties;
