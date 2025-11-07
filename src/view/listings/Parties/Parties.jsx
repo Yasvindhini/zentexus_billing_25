@@ -6,7 +6,7 @@ const Parties = () => {
     <div id="main">
       <Container>
         <Row>
-          <Col xl="12">jhkugiuguggjghukhhik</Col>
+          <Col xl="12">mm</Col>
         </Row>
       </Container>
     </div>
