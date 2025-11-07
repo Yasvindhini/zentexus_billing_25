@@ -63,7 +63,7 @@ const Header = () => {
 
           <Navbar.Collapse id="admin-nav">
             <Nav className="ms-auto">
-              <div className="profile d-flex align-items-center">
+              {/* <div className="profile d-flex align-items-center">
                 <ActionButton
                   label={
                     <>
@@ -75,7 +75,7 @@ const Header = () => {
                   }
                   options={options}
                 />
-              </div>
+              </div> */}
             </Nav>
           </Navbar.Collapse>
         </Container>
